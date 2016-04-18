@@ -1,0 +1,22 @@
+label {
+	float:  left;
+	width:  5em;
+	text-align: right;
+	color:navy;
+	font-weight:bold;
+    }
+
+input {
+	margin-left: 1em;
+	margin-bottom: .5em;
+    }
+
+#button  {
+	margin-left: 7em;
+	background-color:orange;
+    }
+
+#reset  {
+	background-color:pink;
+    }
+ 
